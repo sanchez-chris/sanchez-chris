@@ -10,8 +10,6 @@ Please check my projects at https://github.com/sanchez-chris
 
 Latest projects:
 
-Online Shop: https://sanchez-chris.github.io/online-shop
-
-To-Do List: https://sanchez-chris.github.io/my-todo-list-with-react
-
+Online Shop: https://sanchez-chris.github.io/online-shop  
+To-Do List: https://sanchez-chris.github.io/my-todo-list-with-react  
 Calculator: https://sanchez-chris.github.io/Calculator-React
