@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**sanchez-chris/sanchez-chris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Christian, a junior programmer currently finishing a Bachelor's Degree in Mechatronics Engineering. I am interested in part-time positions that would allow me to expand my knowledge and get hands-on experience in software development and particularly Web Development.
 
-Here are some ideas to get you started:
+While studying, I work on side-projects that allow me to learn more about the latest technologies. I am particularly experienced and interested in frontend development, using JS, React and GIT amongst others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am very enthusiastic about learning, bringing value to a company and due to my constant work on side-projects, I'm very used to balancing studies with work, being very flexible on my schedule.
+
+Please check my projects at https://github.com/sanchez-chris
+
+Latest projects:
+Online Shop: https://sanchez-chris.github.io/online-shop
+To-Do List: https://sanchez-chris.github.io/my-todo-list-with-react
+Calculator: https://sanchez-chris.github.io/Calculator-React
