@@ -5,11 +5,3 @@ I am Christian, a junior programmer currently finishing a Bachelor's Degree in M
 While studying, I work on side-projects that allow me to learn more about the latest technologies. I am particularly experienced and interested in frontend development, using JS, React and GIT amongst others.
 
 I am very enthusiastic about learning, bringing value to a company and due to my constant work on side-projects, I'm very used to balancing studies with work, being very flexible on my schedule.
-
-Please check my projects at https://github.com/sanchez-chris
-
-Latest projects:
-
-Online Shop: https://sanchez-chris.github.io/online-shop  
-To-Do List: https://sanchez-chris.github.io/my-todo-list-with-react  
-Calculator: https://sanchez-chris.github.io/Calculator-React
