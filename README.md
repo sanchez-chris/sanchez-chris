@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I am a junior web developer with experience in front-end development using Vue and TypeScript. I am currently deepening my knowledge in back-end development with Node.js and databases such as MySQL.
+Hier ist Christian. Ich bin von einer starken inneren Motivation angetrieben, mich persönlich und beruflich weiterzuentwickeln. Mit 22 Jahren kam ich ohne Deutschkenntnisse nach Deutschland, was meine Anpassungsfähigkeit und Resilienz gestärkt hat. Heute bin ich leidenschaftlicher Softwareentwickler und strebe danach, in einem dynamischen Unternehmen gemeinsam Erfolge zu erzielen, zu wachsen und meine Fähigkeiten weiter auszubauen.
