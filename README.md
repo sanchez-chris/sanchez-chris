@@ -1,3 +1,6 @@
 ### Hi there 👋
 
-Hier ist Christian. Ich bin von einer starken inneren Motivation angetrieben, mich persönlich und beruflich weiterzuentwickeln. Mit 22 Jahren kam ich ohne Deutschkenntnisse nach Deutschland, was meine Anpassungsfähigkeit und Resilienz gestärkt hat. Heute bin ich leidenschaftlicher Softwareentwickler und strebe danach, in einem dynamischen Unternehmen gemeinsam Erfolge zu erzielen, zu wachsen und meine Fähigkeiten weiter auszubauen.
+I am Christian. I am driven by a deep inner motivation to continuously grow both personally and professionally. At the age of 22, I moved to Germany without any knowledge of the language, an experience that significantly strengthened my adaptability and resilience. Studying mechatronics I fall in love with software development and made it my job. 
+
+You can watch my portfolio here 👇
+https://github.com/sanchez-chris?tab=repositories
